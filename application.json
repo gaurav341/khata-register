@@ -1,6 +1,7 @@
 {
    "data": {
       "globalConfig": {
+         "onlyVerifiedEmailAllowed": true,
          "legalPolicy": "http://lilkids.in/khata-register/tnc/index.html",
          "forceUpdate": {
             "android": {
